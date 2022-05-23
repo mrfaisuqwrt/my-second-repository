@@ -1,0 +1,69 @@
+
+
+body{
+	
+}
+img :hover {
+	width: 300px;
+}
+
+
+#homep{
+
+}
+#head{
+	background-color: red;
+	height: 60px;
+	width: 100%;
+	border-radius:20px;
+}
+span{
+ font-size: 30px;
+ margin-left: 2%;
+ padding-left: 20px;
+ background-color: ;
+ 
+ border: solid 1px black;
+
+}
+ a :hover{
+ 	color: black;
+ 	background-color: white;
+ 	font-variant: auto;
+ 	text-decoration-style: none;
+
+}
+
+form{width: 40%;
+	height: 55%;
+	border-radius: 50px;
+	padding-top: 30px;
+	margin-left: 20%;
+	background-color: pink;
+	border:double 2px gray;
+padding-bottom: 20px;}
+
+
+
+#home{background-color: white;}
+
+
+button{
+
+	width: 30%;
+	background-color: blue;
+}
+ 
+img {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	
+}
+#pics{background-color: gray;
+width: 80%;
+height: auto;
+margin-left: 10%;
+border-radius: 20%;
+opacity: 70%;
+border: dotted 2px aqua;}
